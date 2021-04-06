@@ -7,7 +7,7 @@
 * Email: jantiwaphron@gmail.com
 * IG: https://www.instagram.com/jantiwap/
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]("profilw.png")
 <!--
 **joyjantiwaa/joyjantiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
