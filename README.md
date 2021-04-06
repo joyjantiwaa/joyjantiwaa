@@ -1,5 +1,5 @@
 ### Hi there, I'm Jantiwaphron. Welcome! to my github profile. 👋
-🌱 I’m currently learning ...
+##### 🌱 I’m currently learning ...
 * React.js
 * Django
 <!--
