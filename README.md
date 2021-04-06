@@ -7,7 +7,7 @@
 * Email: jantiwaphron@gmail.com
 * IG: https://www.instagram.com/jantiwap/
 
-![alt text]("https://github.com/joyjantiwaa/joyjantiwaa/blob/19442076dae33fc38fad1ece4f7e5201bf8f8bf5/profilw.png")
+![alt text](https://github.com/joyjantiwaa/joyjantiwaa/blob/19442076dae33fc38fad1ece4f7e5201bf8f8bf5/profilw.png)
 <!--
 **joyjantiwaa/joyjantiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
