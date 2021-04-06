@@ -1,5 +1,5 @@
 ### Hi there, I'm Jantiwaphron. Welcome! to my github profile. 👋
-## H2 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 <!--
 **joyjantiwaa/joyjantiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
